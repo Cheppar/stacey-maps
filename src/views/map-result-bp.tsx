@@ -126,8 +126,8 @@ const INITIAL_VIEW_STATE = {
 
 
 
-const TERRAIN_IMAGE = `https://api.mapbox.com/v4/mapbox.terrain-rgb/{z}/{x}/{y}.png?access_token=${MAPBOX_ACCESS_TOKEN}`;
-const SURFACE_IMAGE = `https://api.mapbox.com/v4/mapbox.satellite/{z}/{x}/{y}@2x.png?access_token=${MAPBOX_ACCESS_TOKEN}`;
+const TERRAIN_IMAGE = `https://tile.buildingshistory.co.uk/data/su_/{z}/{x}/{y}.png`;
+const SURFACE_IMAGE = ``;
 
 const ELEVATION_DECODER = {
   rScaler: 6553.6,
