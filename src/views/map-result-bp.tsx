@@ -23,7 +23,6 @@ import UserInputs from "../models/user-inputs";
 import Metrics from "../models/metrics";
 import MapViewState from "../models/map-view-state";
 import FileContents from "../models/file";
-
 import MetricDisplay from "../components/metric-display";
 
 // utils
