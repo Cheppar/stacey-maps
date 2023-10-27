@@ -7,7 +7,7 @@ This simple web tool will help you visualise your point of interest with terrain
 - A terrain model processed using GIS software.
 
 ### access repository
-- Git clone
+- Git clone `[repo link]`
 - Create a branch
 - git pull origin {branch-name}
 
